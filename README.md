@@ -8,6 +8,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## ملف EXE
+## ملف التشغيل (Windows)
 يُبنى تلقائيًا عبر GitHub Actions. حمّله من تبويب Actions (Artifacts) أو من Releases عند وجود tag مثل `v1.0.0`.
 للاستخدام الشخصي فقط، واحترم حقوق المحتوى وشروط المنصات.
